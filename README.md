@@ -40,8 +40,8 @@
 ### 🔮 My projects :
 | Project | Brief description | Tools | 
 | --- | --- | --- | 
-| [Noise estimation](https://github.com/Daryadare/Audio-Noise-Classification) | Generation of a clean or noisy speech, classification of the noise presence or absence in the audio | WandB, python: os, csv, pandas, numpy, math, random, PIL, IPython, matplotlib, librosa, tqdm, torch, torchaudio | 
-| [Text generation](https://github.com/Daryadare/NLP-Text-Generation) | Generating a new article based on user's theme-based request and self-collected database using Transformer model | HuggingFace model, python: pandas, re, torch, datasets, faiss, transformers, bleurt | 
-| [Text clustering and classification](https://github.com/Daryadare/ML-pet-project) | EDA of the database, text preprocessing and vectoring, clustering and classification using classic ML algorithms | python: pandas, numpy, matplotlib, seaborn, sklearn, nltk, spacy, gensim, catboost | 
-| [Reccommendation system (in progress)](https://github.com/Daryadare/vk-internship) | Trying to make a recommendation system for the VK internship task | python: pandas, numpy, matplotlib, seaborn, re, collections, keras |
+| [Noise estimation](https://github.com/Daryadare/Audio-Noise-Classification) | Generation of a clean or noisy speech, classification of the noise presence or absence in the audio | WandB; python3: os, csv, pandas, numpy, math, random, PIL, IPython, matplotlib, librosa, tqdm, torch, torchaudio | 
+| [Text generation](https://github.com/Daryadare/NLP-Text-Generation) | Generating a new article based on user's theme-based request and self-collected database using Transformer model | HuggingFace pre-trained model; generative metrics: BLEURT, Meteor; python3: pandas, re, torch, datasets, faiss, transformers | 
+| [Text clustering and classification](https://github.com/Daryadare/ML-pet-project) | EDA of the database, text preprocessing and vectoring, clustering and classification using classic ML algorithms | python3: pandas, numpy, matplotlib, seaborn, sklearn, nltk, spacy, gensim, catboost | 
+| [Reccommendation system (in progress)](https://github.com/Daryadare/vk-internship) | Trying to make a recommendation system for the VK internship task | python3: pandas, numpy, matplotlib, seaborn, re, collections, keras |
 | | |

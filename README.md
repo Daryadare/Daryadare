@@ -1,4 +1,4 @@
-### Hello 🙋🏻‍♀️  My name's Darya and I'm junior ML enthusiast!
+### Hello 🙋🏻‍♀️  My name's Darya and I'm ML/DS enthusiast currently working as Middle Data Scientist!
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRxNWt3ZWltYWdubWN0bGV5MmZiMTE4dTh4bDVkMjd5aDd5cnZqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BWR4W6OAGCY14Qzgdz/giphy.gif" width="300"/>
 </div>
